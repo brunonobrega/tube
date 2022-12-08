@@ -1,0 +1,75 @@
+ .str0	{
+ stroke:#FFF;
+ stroke-width:35.3;
+ stroke-linecap:round;
+ stroke-linejoin:round;
+		}
+		
+/*.fil1 {
+fill:#123B6C;
+}
+
+.fil0 {
+fill:#F79E13;
+}
+*/
+
+.map-svg {
+fill:#FFF;
+font-size:50em;
+font-weight:900;
+
+}
+
+
+.state {
+    cursor: pointer;
+}
+
+.state .shape {
+    cursor: pointer;
+    -width: 0;
+}
+
+.state .label_icon_state {
+    fill: #fff;
+    font-family: Arial;
+    font-size: 11px;
+    line-height: 12px;
+    font-weight: normal;
+}
+
+.state .label_state {
+    display: none;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: bold;
+}
+
+.state:hover .label_state,
+.state.hover .label_state {
+    display: block;
+	fill:#F79E13;
+}
+
+.model-green .state .shape {
+    fill: #f79e13;
+}
+
+.model-green .state .icon_state {
+    fill: #a20e1d;
+}
+
+.model-green .state .label_icon_state {
+    fill: #fff;
+}
+
+.model-green .state .label_state {
+    fill: #666;
+}
+
+.model-green .state:hover .shape,
+.model-green .state.hover .shape {
+    fill: #123b6d;
+}

@@ -1,0 +1,8 @@
+[29-Jul-2016 17:50:48 America/Chicago] PHP Warning:  require_once(includes/conexao.inc): failed to open stream: No such file or directory in /home/bit2b365/public_html/projetos/burger_tube/mapas/regiao.php on line 3
+[29-Jul-2016 17:50:48 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'includes/conexao.inc' (include_path='.:/opt/php56/lib/php') in /home/bit2b365/public_html/projetos/burger_tube/mapas/regiao.php on line 3
+[29-Jul-2016 17:51:22 America/Chicago] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/bit2b365/public_html/projetos/burger_tube/mapas/regiao.php on line 59
+[29-Jul-2016 17:51:22 America/Chicago] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/bit2b365/public_html/projetos/burger_tube/mapas/regiao.php on line 59
+[29-Jul-2016 17:51:22 America/Chicago] PHP Warning:  include_once(menu_lateral.php): failed to open stream: No such file or directory in /home/bit2b365/public_html/projetos/burger_tube/mapas/regiao.php on line 63
+[29-Jul-2016 17:51:22 America/Chicago] PHP Warning:  include_once(): Failed opening 'menu_lateral.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/bit2b365/public_html/projetos/burger_tube/mapas/regiao.php on line 63
+[29-Jul-2016 18:03:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bit2b365/public_html/projetos/burger_tube/mapas/cidade.php on line 95
+[29-Jul-2016 18:05:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bit2b365/public_html/projetos/burger_tube/mapas/cidade.php on line 95
